@@ -1,4 +1,3 @@
 NO. REG	: 2020010004
 Nama	: Bagas Rizkiyanto
 Jurusan	: Software Engineering
-tes
